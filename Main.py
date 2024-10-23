@@ -42,7 +42,7 @@ number = input("Enter a grade year."),
 adjective1 = input("Give me an Adjective!"),
 adjective2 = input("Give me another adjective!"),
 adjective3 = input("Give me an adjective!"),
-name1 = input("What is your frend's name?"),
+name1 = input("What is your friend's name?"),
 name2 = input("What is your other friend's name?"),
 noun1 = input("Give me a noun?"),
 plural_noun = input("Give me a plular_noun!")
@@ -59,8 +59,7 @@ print(f"My friends {name1} and {name2} are also in my class."),
 print(f"We messed around during class by hiding {noun1} in peoples'{plural_noun} and asking questions about {noun2}")
 print(f"The teacher got really {noun3} at us and told us that we have to go to the {noun4}."),
 print(f"This just made us {verb} more. It was a {adjective4} first day of school.!")
-#final_story. I don't understand why the final story is not running.
-#update. Its late but I finally have my program running. :)
+
 
 
 
